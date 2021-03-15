@@ -1,3 +1,6 @@
 [submodule "MEDAPP"]
 	path = MEDAPP
 	url = https://github.com/shanureddy4/MEDAPP.git
+[submodule "WW_To_Sell"]
+	path = WW_To_Sell
+	url = https://github.com/shanureddy4/WW_To_Sell.git
