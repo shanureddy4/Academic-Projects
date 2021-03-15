@@ -7,3 +7,6 @@
 [submodule "Jcomponent"]
 	path = Jcomponent
 	url = https://github.com/shanureddy4/Jcomponent.git
+[submodule "CV"]
+	path = CV
+	url = https://github.com/shanureddy4/CV.git
